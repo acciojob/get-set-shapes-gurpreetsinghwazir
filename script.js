@@ -13,7 +13,7 @@ class Rectangle {
 
 
 
-class Square extends Rectangle {
+class Square extends animal {
 	constructor(side){
 	  super(side)
 		this.side = side;
